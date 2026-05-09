@@ -1,0 +1,61 @@
+# 1. Mengabaikan Virtual Environment (Spesifik Komputer Lokal)
+
+venv/
+
+.venv/
+
+env/
+
+
+
+# 2. Mengabaikan Folder Data (Mencegah Kebocoran Data Medis)
+
+"archive (1)/"
+
+
+# 3. Mengabaikan File Dokumentasi Tugas (Hanya Menyimpan Kode Analitis)
+
+*.pdf
+
+
+
+# 4. Mengabaikan Cache Sistem
+
+__pycache__/
+
+*.py[cod]
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/admissions.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/d_hcpcs.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/d_icd_diagnoses.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/d_icd_procedures.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/d_labitems.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/diagnoses_icd.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/drgcodes.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/emar_detail.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/emar.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/hcpcsevents.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/labevents.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/microbiologyevents.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/omr.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/patients.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/pharmacy.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/poe_detail.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/poe.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/prescriptions.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/procedures_icd.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/provider.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/services.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/hosp/transfers.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/icu/caregiver.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/icu/chartevents.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/icu/d_items.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/icu/datetimeevents.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/icu/icustays.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/icu/ingredientevents.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/icu/inputevents.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/icu/outputevents.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/icu/procedureevents.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/demo_subject_id.csv
+archive (1)/mimic-iv-clinical-database-demo-2.2/LICENSE.txt
+archive (1)/mimic-iv-clinical-database-demo-2.2/README.txt
+archive (1)/mimic-iv-clinical-database-demo-2.2/SHA256SUMS.txt
